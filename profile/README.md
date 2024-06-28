@@ -5,4 +5,4 @@ for libraries, testing, etc. If you want to see our real repositories check the 
 
 # Programs we offer
 
-We offer several programs like an HTML Site tester, a Python code tester, and a new language called `MPT+++`.
+We offer several programs like an HTML Site tester, and a Python code tester.
